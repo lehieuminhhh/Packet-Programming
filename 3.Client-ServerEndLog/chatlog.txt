@@ -1,0 +1,78 @@
+Sat Mar 19 08:54:05 2022
+    Client at port 5500 connected.
+
+Sat Mar 19 08:54:05 2022
+    CLIENT: a
+
+Sat Mar 19 08:54:05 2022
+    Client at port 5500 disconnected.
+
+Sat Mar 19 10:31:06 2022
+    Client at port 5500 connected.
+
+Sat Mar 19 10:31:06 2022
+    CLIENT: 456
+
+Sat Mar 19 10:31:06 2022
+    CLIENT: 789
+
+Sat Mar 19 10:31:06 2022
+    Client at port 5500 disconnected.
+
+Sat Mar 19 10:32:30 2022
+    Client at port 5500 connected.
+
+Sat Mar 19 10:32:30 2022
+    CLIENT: a
+
+Sat Mar 19 10:32:30 2022
+    CLIENT: b
+
+Sat Mar 19 10:32:30 2022
+    CLIENT: c
+
+Sat Mar 19 10:32:30 2022
+    Client at port 5500 disconnected.
+
+Sat Mar 19 10:32:30 2022
+    Client at port 5500 connected.
+
+Sat Mar 19 10:32:30 2022
+    SERVER: d
+
+Sat Mar 19 10:32:30 2022
+    SERVER: e
+
+Sat Mar 19 10:32:30 2022
+    SERVER: f
+
+Sat Mar 19 10:32:30 2022
+    SERVER: [A[A
+
+Sat Mar 19 10:32:30 2022
+    SERVER: END
+
+Sat Mar 19 10:32:30 2022
+    SERVER: 
+
+Sat Mar 19 10:32:30 2022
+    SERVER: 
+
+Sat Mar 19 10:32:30 2022
+    SERVER: 
+
+Sat Mar 19 10:32:30 2022
+    SERVER: 
+
+Sat Mar 19 10:32:30 2022
+    SERVER: 
+
+Sat Mar 19 10:32:30 2022
+    SERVER: 
+
+Sat Mar 19Sat Mar 19 10:33:24 2022
+    Client at port 5500 connected.
+
+Sat Mar 19 10:33:24 2022
+    Client at port 5500 disconnected.
+
